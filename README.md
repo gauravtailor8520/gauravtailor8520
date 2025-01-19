@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Gaurav;+A+Data+Scientist👩‍💻;+Loves+To+Build+Products+And+Do+Innovations✨;+💪+4+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;">   
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Gaurav;+A+Data+Scientist👩‍💻;+Loves+To+Build+Products+With+GenAI+✨;+💪+4+*+Tech+Contributer+In+Hackathones+⌛">   
 </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
