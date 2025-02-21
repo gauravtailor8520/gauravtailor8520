@@ -53,10 +53,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravtailor8520&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauravtailor8520" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravtailor8520&theme=radical&hide_border=true" alt="gauravtailor8520" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravtailor8520&show_icons=true&locale=en&theme=tokyonight" alt="gauravtailor8520" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravtailor8520&theme=radical&hide_border=true" alt="gauravtailor8520" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtailor8520&&theme=tokyonight" alt="gauravtailor8520" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=gauravtailor8520&theme=radical&hide_border=true)
+
 
 [![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
