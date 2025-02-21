@@ -57,7 +57,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravtailor8520&theme=radical&hide_border=true" alt="gauravtailor8520" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gauravtailor8520&theme=radical&hide_border=true)
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=gauravtailor8520&theme=radical&hide_border=true" alt="gauravtailor8520" /></p>
+
+
+
 
 
 [![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
