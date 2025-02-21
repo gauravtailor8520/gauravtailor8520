@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravtailor35855&label=Profile%20views&color=0e75b6&style=flat" alt="gauravtailor35855" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravtailor8520&label=Profile%20views&color=0e75b6&style=flat" alt="gauravtailor8520" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/gaurav-tailor-bb4924223/" target="blank"><img src="https://img.shields.io/twitter/follow/gauravtailor35855?logo=twitter&style=for-the-badge" alt="gauravtailor35855"  </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gaurav-tailor-bb4924223/" target="blank"><img src="https://img.shields.io/twitter/follow/gauravtailor35855?logo=twitter&style=for-the-badge" alt="gauravtailor8520"  </p>
 
 - 🔭 I’m currently working on **Data and Cloud**
 
@@ -53,10 +53,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravtailor8520&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauravtailor8520" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravtailor8520&show_icons=true&locale=en&theme=tokyonight" alt="gauravtailor8520" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtailor8520&&theme=tokyonight" alt="gauravtailor8520" /></p>
 
 [![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
