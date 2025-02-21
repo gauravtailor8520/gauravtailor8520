@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravtailor35855&label=Profile%20views&color=0e75b6&style=flat" alt="gauravtailor35855" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="gauravtailor35855"  </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gaurav-tailor-bb4924223/" target="blank"><img src="https://img.shields.io/twitter/follow/gauravtailor35855?logo=twitter&style=for-the-badge" alt="gauravtailor35855"  </p>
 
 - 🔭 I’m currently working on **Data and Cloud**
 
