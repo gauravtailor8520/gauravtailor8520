@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Gaurav Tailor</h1>
 <h3 align="center">A passionate About Data</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
+[![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
