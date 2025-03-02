@@ -62,5 +62,9 @@
 
 
 
+<!-- … 
+ [![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg? >t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io) -->
+ 
 
-[![MasterHead](https://img.freepik.com/free-vector/vector-neon-fisher-village-night-countryside_1441-3152.jpg?t=st=1740152754~exp=1740156354~hmac=836357736384a2fd82c450fa66707d61e4c99f60535376bec5a227aec62b762f&w=1800)](https://rishavchanda.io)
+![image](https://github.com/user-attachments/assets/6ad182dd-4c93-4782-9122-e73585d2da77)
+
